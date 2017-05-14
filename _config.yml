@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Alex Dale
+title: beatup.co
 description: > # this means to ignore newlines until "baseurl:"
-  Personal site for Alex Dale.
+  Coming soon.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://alexdale.me" # the base hostname & protocol for your site
+url: "http://beatup.co" # the base hostname & protocol for your site
 
 # Markdown settings
 markdown: kramdown

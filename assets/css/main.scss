@@ -6,17 +6,22 @@
 
 @import 'base/root';
 
-@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
-	color:white;
-	background-color:black;
-	font-family:none;	
+	color:black;
+	background-color:white;
 	margin-top:50px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 a {
 	text-decoration: none;
-	color:white;
+	color:black
+}
+
+h4,p {text-align:center}
+
+img {
+	width:100%;
 }
